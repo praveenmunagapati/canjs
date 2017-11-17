@@ -22,7 +22,8 @@ var platforms = [/*{
 	version: 'latest'
 }, {
 	browserName: 'MicrosoftEdge',
-	platform: 'Windows 10'
+	platform: 'Windows 10',
+	version: '13'
 }, {
 	browserName: 'firefox',
 	platform: 'Windows 10',
